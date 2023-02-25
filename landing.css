@@ -1,0 +1,31 @@
+body{
+    background: #FEAC5E;  
+    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  
+    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); 
+}
+
+.text{
+    font-size: 180px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    color: whitesmoke;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    
+
+    
+}
+.text2{
+    color: rgb(254, 248, 248);
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    background-color:#0d396f;
+
+}
+.text8{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
